@@ -1,28 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programs\\Developers\\Todolist\\",
+  "WorkspaceRootPath": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 215,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -31,51 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SignUpScreen.cs [Design]",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs [Design]",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs [Design]",
+              "Title": "Form1Test.cs [Design]",
+              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]",
+              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:54:14.468Z",
+              "WhenOpened": "2024-09-12T14:07:01.829Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignInScreen.cs [Design]",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs [Design]",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs [Design]",
+              "Title": "TaskContainer.cs",
+              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
+              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:54:12.08Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUpScreen.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADgvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:54:04.225Z",
+              "WhenOpened": "2024-09-12T13:43:34.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignInScreen.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Form1Test.cs",
+              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:53:56.346Z",
+              "WhenOpened": "2024-09-12T05:14:24.69Z",
               "EditorCaption": ""
             }
           ]
