@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|D:\\Programs\\Developers\\Todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SignInScreen.cs [Design]",
               "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SignUpScreen.cs",
               "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:53:56.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T08:53:56.346Z"
             }
           ]
         }
