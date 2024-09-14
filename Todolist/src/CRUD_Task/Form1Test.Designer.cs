@@ -28,7 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1Test));
             button1 = new Button();
+            imageList1 = new ImageList(components);
             SuspendLayout();
             // 
             // button1
@@ -40,6 +43,15 @@
             button1.Text = "Add task";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
+            // 
+            // imageList1
+            // 
+            imageList1.ColorDepth = ColorDepth.Depth32Bit;
+            imageList1.ImageStream = (ImageListStreamer)resources.GetObject("imageList1.ImageStream");
+            imageList1.TransparentColor = Color.Transparent;
+            imageList1.Images.SetKeyName(0, "star1.png");
+            imageList1.Images.SetKeyName(1, "star2.png");
+            imageList1.Images.SetKeyName(2, "star3.png");
             // 
             // Form1Test
             // 
@@ -55,5 +67,6 @@
         #endregion
 
         private Button button1;
+        private ImageList imageList1;
     }
 }

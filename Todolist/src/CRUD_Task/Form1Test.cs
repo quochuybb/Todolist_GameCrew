@@ -12,16 +12,28 @@ namespace Todolist.src.CRUD_Task
 {
     public partial class Form1Test : Form
     {
-
+        private TaskContainer taskContainer = new TaskContainer();
         private Panel addTaskPanel;
+        private TreeView listPriority;
+        private DateTimePicker datePicker;
+
         private bool isAddPanelActive = false;
+        private bool isPrioListActive = false;
+        private bool isPickerActive = false;
         public Form1Test()
         {
             InitializeComponent();
-            TaskContainer taskContainer = new TaskContainer();
             addTaskPanel = taskContainer.createdAddTaskPanel();
 
-            taskContainer.cancelBut.Click += CancelButton_Click;
+            // main task buttons
+            taskContainer.CancelBut.Click += CancelButton_Click;
+            taskContainer.PrioBut.Click += PrioBut_Click;
+            taskContainer.DateBut.Click += DateBut_Click;
+            
+            // sub elements
+            datePicker = taskContainer.createDatePicker();
+            listPriority = taskContainer.createTreeView();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -30,13 +42,47 @@ namespace Todolist.src.CRUD_Task
             isAddPanelActive = true;
         }
 
-        private void CancelButton_Click(object sender, EventArgs e) 
+        private void CancelButton_Click(object sender, EventArgs e)
         {
-            if (isAddPanelActive) 
-            { 
+            if (isAddPanelActive)
+            {
                 this.Controls.Remove(addTaskPanel);
                 isAddPanelActive = false;
+                if (listPriority != null)
+                {
+                    this.Controls.Remove(listPriority);
+                }
             }
         }
+
+        private void DateBut_Click(object sender, EventArgs e)
+        {
+            if (!isPickerActive && isAddPanelActive)
+            {
+                isPickerActive = true;
+                this.Controls.Add(datePicker);
+                datePicker.BringToFront();
+            }
+            else
+            {
+                this.Controls.Remove(datePicker);
+                isPickerActive = false;
+            }
+        }
+
+            private void PrioBut_Click(object sender, EventArgs e)
+            {
+                if (!isPrioListActive && isAddPanelActive)
+                {
+                    isPrioListActive = true;
+                    this.Controls.Add(listPriority);
+                    listPriority.BringToFront();
+                }
+                else
+                {
+                    this.Controls.Remove(listPriority);
+                    isPrioListActive = false;
+                }
+            }
     }
 }
