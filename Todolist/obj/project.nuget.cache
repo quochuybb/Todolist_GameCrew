@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "dNBBAqtDAHg=",
+  "dgSpecHash": "7ORhQaHVN3o=",
   "success": true,
-  "projectFilePath": "D:\\Programs\\Developers\\Todolist\\Todolist\\Todolist.csproj",
-=======
-  "dgSpecHash": "RAvrWkN0rt0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Clones\\Todolist_GameCrew-mainMenu\\Todolist\\Todolist.csproj",
->>>>>>> mainMenu
+  "projectFilePath": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\Todolist.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
