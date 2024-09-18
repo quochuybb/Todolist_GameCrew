@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\form1test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1Test.cs",
               "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs*",
-              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDsAAAAaAAAAAAAAAA==",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:05:34.495Z",
               "IsPinned": true,
@@ -44,38 +44,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TaskContainer.cs",
               "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
               "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
               "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:00:52.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TaskContainer.Designer.cs",
               "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAowBQAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T06:01:56.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1Test.cs [Design]",
               "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\Form1Test.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]*",
-              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]*",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]",
+              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\Form1Test.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T15:26:19.317Z",
               "EditorCaption": " [Design]"
