@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dNBBAqtDAHg=",
   "success": true,
   "projectFilePath": "D:\\Programs\\Developers\\Todolist\\Todolist\\Todolist.csproj",
+=======
+  "dgSpecHash": "RAvrWkN0rt0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Clones\\Todolist_GameCrew-mainMenu\\Todolist\\Todolist.csproj",
+>>>>>>> mainMenu
   "expectedPackageFiles": [],
   "logs": []
 }

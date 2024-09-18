@@ -8,11 +8,16 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\huy.eco\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+>>>>>>> mainMenu
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Programs\\Developers\\Todolist\\Todolist\\Todolist.csproj",
       "projectName": "Todolist",
       "projectPath": "D:\\Programs\\Developers\\Todolist\\Todolist\\Todolist.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huy.eco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Clones\\Todolist_GameCrew-mainMenu\\Todolist\\Todolist.csproj",
+      "projectName": "Todolist",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Clones\\Todolist_GameCrew-mainMenu\\Todolist\\Todolist.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Clones\\Todolist_GameCrew-mainMenu\\Todolist\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> mainMenu
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +84,11 @@
             "privateAssets": "none"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+>>>>>>> mainMenu
       }
     }
   }
