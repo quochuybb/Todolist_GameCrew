@@ -1,4 +1,6 @@
+
 using Todolist.src.CRUD_Task;
+using Todolist.src.ui.MainMenu;
 
 namespace Todolist
 {
@@ -13,7 +15,7 @@ namespace Todolist
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1Test());
+            Application.Run(new mainMenu());
         }
     }
 }

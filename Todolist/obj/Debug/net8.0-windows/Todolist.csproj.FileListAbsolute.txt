@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.CRUD_Task.Form1Test.resources
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.SignInScreen.resources
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.AuthenticationScreen.SignUpScreen.resources
@@ -17,3 +18,33 @@ E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.pdb
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.genruntimeconfig.cache
 E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\ref\Todolist.dll
+=======
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.Properties.Resources.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.SignInScreen.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.AuthenticationScreen.SignUpScreen.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.mainMenu.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.sourcelink.json
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\bin\Debug\net8.0-windows\Todolist.exe
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\bin\Debug\net8.0-windows\Todolist.deps.json
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\bin\Debug\net8.0-windows\Todolist.runtimeconfig.json
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\bin\Debug\net8.0-windows\Todolist.dll
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\bin\Debug\net8.0-windows\Todolist.pdb
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.dll
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\refint\Todolist.dll
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.pdb
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\ref\Todolist.dll
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.Home.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.Setting.resources
+C:\Users\Admin\Desktop\CloneC#\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.TodayActivities.resources
+>>>>>>> main
+E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.Properties.Resources.resources
+E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.mainMenu.resources
+E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.Home.resources
+E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.Setting.resources
+E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\obj\Debug\net8.0-windows\Todolist.src.ui.MainMenu.UserControls.TodayActivities.resources

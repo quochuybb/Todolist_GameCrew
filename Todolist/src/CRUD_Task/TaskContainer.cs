@@ -22,10 +22,7 @@ namespace Todolist.src.CRUD_Task
         
         public void listPriority_NodeMouseDoubleClick_1(object sender, TreeNodeMouseClickEventArgs e)
         {
-            TreeNode doubleClickedNode = e.Node;
-            // Display the double-clicked node's text
-            MessageBox.Show("Double-clicked node text: " + doubleClickedNode.Text);            
-
+            priority = e.Node.Index;
         }
         public TreeView createTreeView()
         {

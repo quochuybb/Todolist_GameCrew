@@ -1,2 +1,6 @@
 .vs/
+<<<<<<< HEAD
 *.vsidx
+=======
+Todolist/obj/
+>>>>>>> main
