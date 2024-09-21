@@ -55,17 +55,26 @@ namespace Todolist.src.CRUD_Task
             return this.priority;
         }
         private int locationX = 170;
-        private int locationY = 50; 
+        private int locationY = 50;
+
+        public void setLocationX(int x)
+        {
+            locationX = x;
+        }
+
+        public void setLocationY(int y)
+        {
+            locationY = y;
+        }
         private void panelStyle()
         {
-            addPanel.Location = new Point(locationX,locationY);
+            addPanel.Location = new Point(170,50);
             taskName.Location = new Point(10, 10);
             taskDescription.Location = new Point(10, 50);
             lineSeparator.Location = new Point(10, 90);
             prioBut.Location = new Point(10, 110);
-            dateBut.Location = new Point(120, 110);
-            cancelBut.Location = new Point(230, 110);
-            saveTaskBut.Location = new Point(340, 110);
+            cancelBut.Location = new Point(locationX + 60, 110);
+            saveTaskBut.Location = new Point(locationX + 170, 110);
 
 
             // addPanel style
@@ -107,12 +116,7 @@ namespace Todolist.src.CRUD_Task
             prioBut.TabIndex = 2;
             // this location will be modified
 
-            //  dateBut style
-            dateBut.Size = new Size(101, 37);
-            dateBut.Name = "dateBut";
-            dateBut.Text = "Due date";
-            dateBut.TabIndex = 3;
-             // this location will be modified
+          
 
 
             //  cancelBut style
@@ -135,7 +139,6 @@ namespace Todolist.src.CRUD_Task
             addPanel.Controls.Add(taskDescription);
             addPanel.Controls.Add(lineSeparator);
             addPanel.Controls.Add(prioBut);
-            addPanel.Controls.Add(dateBut);
             addPanel.Controls.Add(cancelBut);
             addPanel.Controls.Add(saveTaskBut);
         }

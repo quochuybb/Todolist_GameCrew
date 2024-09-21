@@ -16,6 +16,15 @@ namespace Todolist.src.CRUD_Task
 
         public DateTimePicker createDatePicker()
         {
+            //  dateBut style
+            dateBut.Size = new Size(101, 37);
+            dateBut.Name = "dateBut";
+            dateBut.Text = "Due date";
+            dateBut.TabIndex = 3;
+            dateBut.Location = new Point(120, 110);
+            // this location will be modified
+            addPanel.Controls.Add(dateBut);
+
             dateTimePickerStyle();
             return dateTimePicker;
         }

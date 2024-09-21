@@ -25,7 +25,7 @@ namespace Todolist.src.ui.MainMenu.UserControls
         private bool isPrioListActive = false;
         private bool isPickerActive = false;
         private int count = 0;
-        private Image image;
+
         DataTable list = new DataTable(); // task data 
 
         public Home()
@@ -53,12 +53,6 @@ namespace Todolist.src.ui.MainMenu.UserControls
             checkBoxColumn.HeaderText = "Done"; // Set header text
             checkBoxColumn.Name = "checkBoxColumn"; // Set column name
             checkBoxColumn.ReadOnly = false; // Allow user to check/uncheck
-            
-            // adding task priority image
-            DataGridViewImageColumn imageColumn = new DataGridViewImageColumn();
-            imageColumn.HeaderText = "Priority";
-            imageColumn.Name = "prioColumn";
-            imageColumn.ReadOnly = true;
 
             taskList.DataSource = list;
             taskList.Columns.Add(checkBoxColumn);
@@ -88,12 +82,6 @@ namespace Todolist.src.ui.MainMenu.UserControls
             string descrip = taskContainer.getDescription();
             DateTime date = taskContainer.getDate();
             int prioIndex = taskContainer.getPriority();
-            switch (prioIndex)
-            {
-                case 0: image = Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star1.png"); break;
-                case 1: image = Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star2.png"); break;
-                case 2: image = Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star3.png"); break;
-            }
             
             if (isAddPanelActive)
             {
