@@ -161,7 +161,7 @@ namespace Todolist.src.CRUD_Task
             images.Images.SetKeyName(0, "star1.png");
             images.Images.SetKeyName(1, "star2.png");
             images.Images.SetKeyName(2, "star3.png");
-
+            
             // node style
             TreeNode Node1 = new TreeNode("High priority");
             Node1.ImageKey = "star1.png";
