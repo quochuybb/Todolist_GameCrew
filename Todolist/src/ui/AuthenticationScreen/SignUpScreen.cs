@@ -7,39 +7,46 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Todolist.src.service;
+using Todolist.src.ui.MainMenu;
 
-namespace Todolist.src.ui.AuthenticationScreen
+namespace Todolist
 {
-    public partial class SignUpScreen : UserControl
+    public partial class SignUpScreen : Form
     {
-        public SignUpScreen()
+        private ConnectDb connectDb;
+        public SignUpScreen(ConnectDb connectDb)
         {
             InitializeComponent();
+            this.connectDb = connectDb;
         }
-
-        private void SignIn_Label_Click(object sender, EventArgs e)
+        private async void SignUp_Button_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void SignIn_Email_TextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            if (Pass_TextBox.Text != RePass_TexBox.Text)
+            {
+                MessageBox.Show("Please enter Password again");
+                return;
+            }
+            var todoService = new TodoService(this.connectDb);
+            var accountController = new AccountController(todoService);
+            var newAccount = new Account()
+            {
+                Usr = Usr_TextBox.Text,
+                Email = Email_TextBox.Text,
+                Name = Name_TextBox.Text,
+                Passphrase = Pass_TextBox.Text
+                
+            };
+            if (newAccount.Email != null && newAccount.Usr != null)
+            {
+                await accountController.CreateData(newAccount);
+                this.Hide();
+                var account = await todoService.GetDataAccountFromDatabase(newAccount.Email, 4);
+                UserSession.Instance.SetAccount(account);
+                mainMenu mainmenu = new mainMenu();
+                mainmenu.Show();
+            }
+            
         }
     }
 }

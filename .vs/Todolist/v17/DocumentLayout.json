@@ -1,17 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\",
+  "WorkspaceRootPath": "D:\\Todolist_GameCrew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\service\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\todolist_gamecrew\\todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|D:\\Todolist_GameCrew\\todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,49 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SignUpScreen.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs*",
+              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:47:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs [Design]",
+              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:45:51.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs [Design]*",
+              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:45:50.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainMenu.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:45:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInScreen.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:44:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectDb.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\Service\\ConnectDb.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\Service\\ConnectDb.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\Service\\ConnectDb.cs",
+              "RelativeToolTip": "Todolist\\src\\Service\\ConnectDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:39:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TaskContainer.Designer.cs",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAA9wKQAAAAyAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T10:23:27.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\Program.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\Program.cs",
               "RelativeDocumentMoniker": "Todolist\\Program.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\Program.cs",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\Program.cs",
               "RelativeToolTip": "Todolist\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T10:16:09.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "mainMenu.cs [Design]",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "DocumentMoniker": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs [Design]",
+              "ToolTip": "D:\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs [Design]",
               "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T10:16:06.792Z",

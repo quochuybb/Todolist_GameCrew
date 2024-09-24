@@ -12,10 +12,9 @@ namespace Todolist
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
+            var connect = new ConnectDb();
             ApplicationConfiguration.Initialize();
-            Application.Run(new mainMenu());
+            Application.Run(new SignInScreen(connect));
         }
     }
 }
