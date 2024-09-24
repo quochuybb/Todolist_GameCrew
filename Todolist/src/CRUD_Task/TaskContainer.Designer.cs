@@ -155,9 +155,9 @@ namespace Todolist.src.CRUD_Task
 
             // add images list
             ImageList images = new ImageList();
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star1.png"));
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star2.png"));
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star3.png"));
+            images.Images.Add(Image.FromFile("Todolist\\src\\Assests\\star1.png"));
+            images.Images.Add(Image.FromFile("Todolist\\src\\Assests\\star2.png"));
+            images.Images.Add(Image.FromFile("Todolist\\src\\Assests\\star3.png"));
             images.Images.SetKeyName(0, "star1.png");
             images.Images.SetKeyName(1, "star2.png");
             images.Images.SetKeyName(2, "star3.png");
