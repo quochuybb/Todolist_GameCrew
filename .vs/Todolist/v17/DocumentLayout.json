@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\todolist\\src\\ui\\mainmenu\\usercontrols\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|e:\\codecomplier\\vstudioprojects\\gamecrew_todolist\\todolist_gamecrew\\todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,58 +40,35 @@
               "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
               "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.Designer.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAowKQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAA9wKQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T02:04:21.227Z",
+              "WhenOpened": "2024-09-24T10:23:27.849Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Setting.cs [Design]",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Setting.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Setting.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Setting.cs [Design]",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Setting.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:49:14.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs [Design]",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:45:21.091Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.Designer.cs",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:45:11.715Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.cs",
-              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAswKwAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\Program.cs",
+              "RelativeDocumentMoniker": "Todolist\\Program.cs",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\Program.cs",
+              "RelativeToolTip": "Todolist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:31:38.999Z",
+              "WhenOpened": "2024-09-24T10:16:09.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainMenu.cs [Design]",
+              "DocumentMoniker": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
+              "ToolTip": "E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs [Design]",
+              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:16:06.792Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
