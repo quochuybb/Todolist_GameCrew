@@ -18,7 +18,7 @@ namespace Todolist
         }
         public async Task CreateData(Account account)
         {
-            if (!await CheckAccountExist(account,true))
+            if (await CheckAccountExist(account,true))
             {
 
                 MessageBox.Show("Email or Username Exist");
@@ -40,17 +40,25 @@ namespace Todolist
         {
             if (sameClass)
             {
-                if (await todoService.IsValidDataAccountInDatabase(account) >= 3)
+                if (await todoService.IsValidDataAccountInDatabase(account, false) >= 0)
                 {
-                    return true;
+                    return false;
                 }
-                return false;
             }
-            if (await todoService.IsValidDataAccountInDatabase(account) >= 2)
+            else
             {
                 return true;
             }
-            return false;
+            if (await todoService.IsValidDataAccountInDatabase(account, true) >= 2)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+
+            }
+            
         }
         
 

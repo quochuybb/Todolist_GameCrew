@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="src\ui\AuthenticationScreen\SignInScreen.cs">
+    <Compile Update="Src\UI\AuthenticationScreen\SignInScreen.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="src\ui\AuthenticationScreen\SignUpScreen.cs">
+    <Compile Update="Src\UI\AuthenticationScreen\SignUpScreen.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="src\ui\MainMenuScreen\MainMenu_Page_Today.cs">
+    <Compile Update="Src\UI\MainMenuScreen\MainMenu_Page_Today.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="src\ui\MainMenu\mainMenu.cs">
+    <Compile Update="Src\UI\MainMenu\mainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="src\ui\MainMenu\UserControls\Home.cs">
+    <Compile Update="Src\UI\MainMenu\UserControls\Home.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="src\ui\MainMenu\UserControls\Setting.cs">
+    <Compile Update="Src\UI\MainMenu\UserControls\Setting.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="src\ui\MainMenu\UserControls\TodayActivities.cs">
+    <Compile Update="Src\UI\MainMenu\UserControls\TodayActivities.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>

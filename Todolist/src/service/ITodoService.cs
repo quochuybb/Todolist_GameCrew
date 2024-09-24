@@ -15,7 +15,6 @@ namespace Todolist
         Task<int> IsValidDataAccountInDatabase(Account account);
         Task<List<TodoItem>> GetTaskByAccountId(int accountId);
         Task AddTodoAsync(TodoItem tasks);
-        Task UpdateTodoAsync(TodoItem task, Account account);
         Task DeleteTodoAsync(int task_id, int acc_id);
     }
 }

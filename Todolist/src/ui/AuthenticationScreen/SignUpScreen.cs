@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Todolist.src.service;
+using Todolist.src.ui.MainMenu;
 
 namespace Todolist
 {
@@ -35,9 +37,11 @@ namespace Todolist
                 Passphrase = Pass_TextBox.Text
                 
             };
+            if (newAccount.Email != null && newAccount.Usr != null)
+            {
+                await accountController.CreateData(newAccount);
+            }
             
-            accountController.CreateData(newAccount);
-
         }
     }
 }

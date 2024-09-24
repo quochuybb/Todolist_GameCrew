@@ -3,72 +3,76 @@
   "WorkspaceRootPath": "D:\\Programs\\Developers\\Todolist\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signinscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|D:\\Programs\\Developers\\Todolist\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\controller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\mainmenu\\usercontrols\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\usercontrols\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\validdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\validdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\service\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\service\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\crud_task\\taskcontainer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|D:\\Programs\\Developers\\Todolist\\todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\mainmenu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|d:\\programs\\developers\\todolist\\todolist\\src\\ui\\authenticationscreen\\signupscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA7E554-1776-4CE5-9034-BE2FD87F5B7D}|Todolist\\Todolist.csproj|solutionrelative:todolist\\src\\ui\\authenticationscreen\\signupscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,42 +82,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskContainer.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\CRUD_Task\\TaskContainer.cs",
-              "RelativeToolTip": "Todolist\\src\\CRUD_Task\\TaskContainer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABKAAAA",
+              "DocumentIndex": 2,
+              "Title": "SignUpScreen.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "RelativeToolTip": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T05:01:46.929Z",
+              "WhenOpened": "2024-09-24T02:15:23.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "RelativeToolTip": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAcwMwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:59:13.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpScreen.Designer.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.Designer.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.Designer.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.Designer.cs",
+              "RelativeToolTip": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.Designer.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:51:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs [Design]",
+              "RelativeToolTip": "Todolist\\Src\\UI\\AuthenticationScreen\\SignUpScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:50:59.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskContainer.Designer.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "RelativeToolTip": "Todolist\\Src\\CRUD_Task\\TaskContainer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:48:56.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidData.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ValidData.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Service\\ValidData.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ValidData.cs",
+              "RelativeToolTip": "Todolist\\Src\\Service\\ValidData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:01:36.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ValidData.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ValidData.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\service\\ValidData.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ValidData.cs",
-              "RelativeToolTip": "Todolist\\src\\service\\ValidData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T05:01:36.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ITodoService.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ITodoService.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\service\\ITodoService.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ITodoService.cs",
-              "RelativeToolTip": "Todolist\\src\\service\\ITodoService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAoAAAA",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ITodoService.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Service\\ITodoService.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ITodoService.cs",
+              "RelativeToolTip": "Todolist\\Src\\Service\\ITodoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T04:31:12.196Z",
               "EditorCaption": ""
@@ -122,53 +178,44 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ConnectDb.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ConnectDb.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\service\\ConnectDb.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\ConnectDb.cs",
-              "RelativeToolTip": "Todolist\\src\\service\\ConnectDb.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ConnectDb.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Service\\ConnectDb.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\ConnectDb.cs",
+              "RelativeToolTip": "Todolist\\Src\\Service\\ConnectDb.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:57:04.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\Models\\TodoItem.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\Models\\TodoItem.cs",
-              "RelativeToolTip": "Todolist\\src\\Models\\TodoItem.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:33:14.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\Models\\Account.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\Models\\Account.cs",
-              "RelativeToolTip": "Todolist\\src\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:33:13.181Z"
+              "WhenOpened": "2024-09-24T04:57:04.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "SignUpScreen.Designer.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.Designer.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.Designer.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.Designer.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.Designer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Todolist\\Src\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T04:31:30.183Z"
+              "WhenOpened": "2024-09-24T04:33:14.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Models\\Account.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Models\\Account.cs",
+              "RelativeToolTip": "Todolist\\Src\\Models\\Account.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:33:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "mainMenu.cs [Design]",
               "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
               "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\mainMenu.cs",
@@ -179,63 +226,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TodoService.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\TodoService.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\service\\TodoService.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\TodoService.cs",
-              "RelativeToolTip": "Todolist\\src\\service\\TodoService.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAADwv0sAAAAkAAAA",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\TodoService.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Service\\TodoService.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\TodoService.cs",
+              "RelativeToolTip": "Todolist\\Src\\Service\\TodoService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA2wEUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:27:57.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\controller\\TaskController.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\controller\\TaskController.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\controller\\TaskController.cs",
-              "RelativeToolTip": "Todolist\\src\\controller\\TaskController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBUAAAAJAAAA",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Controller\\TaskController.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Controller\\TaskController.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Controller\\TaskController.cs",
+              "RelativeToolTip": "Todolist\\Src\\Controller\\TaskController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:07:50.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignInScreen.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignInScreen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABIAAAA",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignInScreen.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\AuthenticationScreen\\SignInScreen.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\AuthenticationScreen\\SignInScreen.cs",
+              "RelativeToolTip": "Todolist\\Src\\UI\\AuthenticationScreen\\SignInScreen.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:15:10.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs [Design]",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs [Design]",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs [Design]",
+              "RelativeToolTip": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:02:06.117Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Home.Designer.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.Designer.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.Designer.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.Designer.cs",
+              "RelativeToolTip": "Todolist\\Src\\UI\\MainMenu\\UserControls\\Home.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:01:30.757Z",
@@ -243,53 +290,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\MainMenu\\UserControls\\Home.cs",
-              "ViewState": "AQIAAKwAAAAAAAAAAAAawLcAAAAlAAAA",
+              "DocumentIndex": 10,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\UserSession.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Service\\UserSession.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Service\\UserSession.cs",
+              "RelativeToolTip": "Todolist\\Src\\Service\\UserSession.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wBkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:59:13.752Z",
+              "WhenOpened": "2024-09-24T00:41:55.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserSession.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\UserSession.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\service\\UserSession.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\service\\UserSession.cs",
-              "RelativeToolTip": "Todolist\\src\\service\\UserSession.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:41:55.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\controller\\AccountController.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\controller\\AccountController.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\controller\\AccountController.cs",
-              "RelativeToolTip": "Todolist\\src\\controller\\AccountController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAABOAAAA",
+              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Controller\\AccountController.cs",
+              "RelativeDocumentMoniker": "Todolist\\Src\\Controller\\AccountController.cs",
+              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\Src\\Controller\\AccountController.cs",
+              "RelativeToolTip": "Todolist\\Src\\Controller\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:48:10.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUpScreen.cs",
-              "DocumentMoniker": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "RelativeDocumentMoniker": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "ToolTip": "D:\\Programs\\Developers\\Todolist\\Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "RelativeToolTip": "Todolist\\src\\ui\\AuthenticationScreen\\SignUpScreen.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:40:57.92Z",
               "EditorCaption": ""
             }
           ]

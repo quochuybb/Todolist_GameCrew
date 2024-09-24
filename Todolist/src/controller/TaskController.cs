@@ -22,5 +22,9 @@ namespace Todolist
         {
             await todoService.AddTodoAsync(todoItem);
         }
+        public async Task DeleteTaskToDatabase(int todo, int acc)
+        {
+            await todoService.DeleteTodoAsync(todo,acc);
+        }
     }
 }

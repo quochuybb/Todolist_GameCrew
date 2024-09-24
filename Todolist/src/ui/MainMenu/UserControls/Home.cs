@@ -17,7 +17,7 @@ namespace Todolist.src.ui.MainMenu.UserControls
 {
     public partial class Home : UserControl
     {
-
+        private BindingList<TodoItem> bindingList;
         private TaskContainer taskContainer = new TaskContainer();
         private Panel addTaskPanel;
         private System.Windows.Forms.TreeView listPriority;
@@ -168,7 +168,7 @@ namespace Todolist.src.ui.MainMenu.UserControls
 
 
         // check whether the tasks is done ?
-        private void taskList_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private async void taskList_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.ColumnIndex == taskList.Columns["checkBoxColumn"].Index && e.RowIndex >= 0)
             {
@@ -181,23 +181,28 @@ namespace Todolist.src.ui.MainMenu.UserControls
         //If it was unchecked, remove the row
                 if (!isChecked)
                 {
-                    taskList.Rows.RemoveAt(e.RowIndex);
-                    count--;
-                    if (count == 0)
-                    {
-                        MessageBox.Show("Done all tasks");
-                    }
+                    var id = Convert.ToInt32(taskList.Rows[e.RowIndex].Cells["TaskId"].Value);
+                    var acc_id = Convert.ToInt32(taskList.Rows[e.RowIndex].Cells["usr_id"].Value);
+                    await DeleteTask(id,acc_id);
+                    taskList.DataSource = null;
                 }
             }
         }
         private async Task LoadDataToGrid()
         {
-            var tasks =await  taskController.LoadData(UserSession.Instance.LoggedInAccount.Id);
-            taskList.DataSource = tasks;
+
+            var tasks = await  taskController.LoadData(UserSession.Instance.LoggedInAccount.Id);
+            bindingList = new BindingList<TodoItem>(tasks);
+            taskList.DataSource = bindingList;
         }
         private async Task CreateTask(TodoItem todoItem)
         {
             await taskController.AddTaskToDatabase(todoItem);
+            await LoadDataToGrid();
+        }
+        private async Task DeleteTask(int id, int acc_id)
+        {
+            await taskController.DeleteTaskToDatabase(id,acc_id);
             await LoadDataToGrid();
         }
     }

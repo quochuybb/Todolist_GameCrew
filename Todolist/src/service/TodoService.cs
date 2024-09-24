@@ -52,15 +52,22 @@ namespace Todolist
         {
             return await _connectDb.Set<T>().CountAsync();
         }
-        public async Task<int> IsValidDataAccountInDatabase(Account account)
+        public async Task<int> IsValidDataAccountInDatabase(Account account, bool i)
         {
             int conditionSuccess = 0;
             var validData = await GetDataAccountFromDatabase(account.Email, 4);
             if (validData != null)
             {
-                if (account.Usr == validData.Usr) conditionSuccess += 1;
-                if (account.Email == validData.Email) conditionSuccess += 1;
-                if (account.Passphrase == validData.Passphrase) conditionSuccess += 1;
+                if (i)
+                {
+                    if (account.Email == validData.Email) conditionSuccess += 1;
+                    if (account.Passphrase == validData.Passphrase) conditionSuccess += 1;
+                }
+                else
+                {
+                    if (account.Usr == validData.Usr) conditionSuccess += 1;
+                    if (account.Email == validData.Email) conditionSuccess += 1;
+                }
             }
             return conditionSuccess;
         }
@@ -75,19 +82,11 @@ namespace Todolist
             _connectDb.Add(todoItem);
             await _connectDb.SaveChangesAsync();
         }
-        public async Task UpdateTodoAsync(TodoItem task, Account account)
+        public async Task DeleteTodoAsync(int todo, int account)
         {
-            _connectDb.TodoItem.Update(task);
+            var del = _connectDb.TodoItem.FirstOrDefault(x => x.TaskId== todo && x.usr_id == account);
+            _connectDb.Remove(del);
             await _connectDb.SaveChangesAsync();
-        }
-        public async Task DeleteTodoAsync(int task_id, int acc_id)
-        {
-            var item = await _connectDb.TodoItem.FindAsync(task_id);
-            if (item != null)
-            {
-                _connectDb.TodoItem.Remove(item);
-                await _connectDb.SaveChangesAsync();
-            }
         }
     }
 }
