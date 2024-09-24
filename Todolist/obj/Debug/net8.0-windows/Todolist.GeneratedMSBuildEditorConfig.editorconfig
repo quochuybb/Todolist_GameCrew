@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Todolist
-build_property.ProjectDir = E:\CodeComplier\VStudioProjects\GameCrew_TodoList\Todolist_GameCrew\Todolist\
+build_property.ProjectDir = D:\Programs\Developers\Todolist\Todolist\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

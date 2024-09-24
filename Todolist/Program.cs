@@ -1,21 +1,18 @@
-
-using Todolist.src.CRUD_Task;
-using Todolist.src.ui.MainMenu;
+using Todolist.src.ui.MainMenuScreen;
 
 namespace Todolist
 {
+    
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
+            var connect = new ConnectDb();
             ApplicationConfiguration.Initialize();
-            Application.Run(new mainMenu());
+            Application.Run(new SignInScreen(connect));
+            
+            
         }
     }
 }

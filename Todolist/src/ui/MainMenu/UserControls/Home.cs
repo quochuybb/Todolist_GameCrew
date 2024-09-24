@@ -11,6 +11,7 @@ using System.Windows.Forms;
 using Todolist.src.CRUD_Task;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.IO;
+using Todolist.src.service;
 
 namespace Todolist.src.ui.MainMenu.UserControls
 {
@@ -28,10 +29,13 @@ namespace Todolist.src.ui.MainMenu.UserControls
         private int count = 0;
 
         DataTable list = new DataTable(); // task data 
-
-        public Home()
+        //connect to db
+        private ConnectDb connectDb;
+        private TaskController taskController;
+        public Home(TodoService todoService)
         {
             InitializeComponent();
+            taskController = new TaskController(todoService);
             addTaskPanel = taskContainer.createdAddTaskPanel();
 
             // main task buttons events
@@ -58,6 +62,9 @@ namespace Todolist.src.ui.MainMenu.UserControls
             taskList.DataSource = list;
             taskList.Columns.Add(checkBoxColumn);
             taskList.CellContentClick += taskList_CellContentClick;
+
+            //Load Data
+            LoadDataToGrid();
         }
 
 
@@ -77,7 +84,7 @@ namespace Todolist.src.ui.MainMenu.UserControls
         }
 
         // save task
-        private void SaveButton_Click(object sender, EventArgs e)
+        private async void SaveButton_Click(object sender, EventArgs e)
         {
             string title = taskContainer.getTile();
             string descrip = taskContainer.getDescription();
@@ -103,6 +110,18 @@ namespace Todolist.src.ui.MainMenu.UserControls
                     taskContainer.setTile("");
                 }
             }
+            var newTodoItem = new TodoItem()
+            {
+                usr_id = UserSession.Instance.LoggedInAccount.Id,
+                Title = title,
+                Description = descrip,
+                Status_task = 0,
+                Priority_task = prioIndex,
+                Due_day = date,
+                Created_at = DateTime.Now,
+
+            };
+            await CreateTask(newTodoItem);
         }
 
         // set task due date
@@ -153,13 +172,13 @@ namespace Todolist.src.ui.MainMenu.UserControls
         {
             if (e.ColumnIndex == taskList.Columns["checkBoxColumn"].Index && e.RowIndex >= 0)
             {
-
+        
                 object value = taskList.Rows[e.RowIndex].Cells[e.ColumnIndex].Value;
 
-                // Safely cast to bool
+        // Safely cast to bool
                 bool isChecked = value != null && (bool)value;
 
-                // If it was unchecked, remove the row
+        //If it was unchecked, remove the row
                 if (!isChecked)
                 {
                     taskList.Rows.RemoveAt(e.RowIndex);
@@ -170,6 +189,16 @@ namespace Todolist.src.ui.MainMenu.UserControls
                     }
                 }
             }
+        }
+        private async Task LoadDataToGrid()
+        {
+            var tasks =await  taskController.LoadData(UserSession.Instance.LoggedInAccount.Id);
+            taskList.DataSource = tasks;
+        }
+        private async Task CreateTask(TodoItem todoItem)
+        {
+            await taskController.AddTaskToDatabase(todoItem);
+            await LoadDataToGrid();
         }
     }
 }

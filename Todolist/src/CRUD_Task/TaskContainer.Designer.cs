@@ -154,13 +154,13 @@ namespace Todolist.src.CRUD_Task
 
 
             // add images list
-            ImageList images = new ImageList();
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star1.png"));
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star2.png"));
-            images.Images.Add(Image.FromFile("Todolist_GameCrew\\Todolist\\src\\Assests\\star3.png"));
-            images.Images.SetKeyName(0, "star1.png");
-            images.Images.SetKeyName(1, "star2.png");
-            images.Images.SetKeyName(2, "star3.png");
+            //ImageList images = new ImageList();
+            //images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star1.png"));
+            //images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star2.png"));
+            //images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star3.png"));
+            //images.Images.SetKeyName(0, "star1.png");
+            //images.Images.SetKeyName(1, "star2.png");
+            //images.Images.SetKeyName(2, "star3.png");
 
             // node style
             TreeNode Node1 = new TreeNode("High priority");
@@ -179,7 +179,7 @@ namespace Todolist.src.CRUD_Task
             Node3.Name = "Node2";
             Node3.Tag = "lowPriority";
 
-            listPriority.ImageList = images;
+            //listPriority.ImageList = images;
             listPriority.Nodes.AddRange(new TreeNode[] { Node1, Node2, Node3 });
             listPriority.NodeMouseClick += listPriority_NodeMouseDoubleClick_1;
         }

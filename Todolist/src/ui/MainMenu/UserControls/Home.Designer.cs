@@ -59,10 +59,10 @@
             taskList.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             taskList.BackgroundColor = Color.Gainsboro;
             taskList.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            taskList.Location = new Point(3, 146);
+            taskList.Location = new Point(3, 172);
             taskList.Name = "taskList";
             taskList.RowHeadersWidth = 51;
-            taskList.Size = new Size(1073, 496);
+            taskList.Size = new Size(1073, 377);
             taskList.TabIndex = 2;
             // 
             // Home

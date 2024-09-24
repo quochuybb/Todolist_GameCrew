@@ -12,20 +12,11 @@
       }
     ],
     "additionalProbingPaths": [
-<<<<<<< HEAD
-      "C:\\Users\\nguye\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\nguye\\.nuget\\packages"
-=======
-<<<<<<< HEAD
       "C:\\Users\\huy.eco\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\huy.eco\\.nuget\\packages"
-=======
-      "C:\\Users\\Admin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Admin\\.nuget\\packages"
->>>>>>> mainMenu
->>>>>>> main
     ],
     "configProperties": {
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }

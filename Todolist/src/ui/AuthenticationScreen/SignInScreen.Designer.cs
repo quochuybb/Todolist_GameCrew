@@ -30,7 +30,7 @@ partial class SignInScreen : Form
     private void InitializeComponent()
     {
         SignIn_Label = new Label();
-        SigIn_Pass_TextBox = new TextBox();
+        SignIn_Pass_TextBox = new TextBox();
         fileSystemWatcher1 = new FileSystemWatcher();
         SignIn_Email_TextBox = new TextBox();
         SignIn_Button = new Button();
@@ -42,7 +42,7 @@ partial class SignInScreen : Form
         // SignIn_Label
         // 
         SignIn_Label.AutoSize = true;
-        SignIn_Label.Font = new Font("Arial Black", 16.2F, FontStyle.Bold, GraphicsUnit.Point);
+        SignIn_Label.Font = new Font("Arial Black", 16.2F, FontStyle.Bold);
         SignIn_Label.Location = new Point(14, 9);
         SignIn_Label.Name = "SignIn_Label";
         SignIn_Label.Size = new Size(123, 40);
@@ -51,12 +51,12 @@ partial class SignInScreen : Form
         // 
         // SigIn_Pass_TextBox
         // 
-        SigIn_Pass_TextBox.Location = new Point(14, 89);
-        SigIn_Pass_TextBox.Name = "SigIn_Pass_TextBox";
-        SigIn_Pass_TextBox.Size = new Size(346, 27);
-        SigIn_Pass_TextBox.TabIndex = 2;
-        SigIn_Pass_TextBox.Text = "Password";
-        SigIn_Pass_TextBox.Click += SigIn_Pass_TextBox_Click;
+        SignIn_Pass_TextBox.Location = new Point(14, 89);
+        SignIn_Pass_TextBox.Name = "SignIn_Pass_TextBox";
+        SignIn_Pass_TextBox.Size = new Size(346, 27);
+        SignIn_Pass_TextBox.TabIndex = 2;
+        SignIn_Pass_TextBox.Text = "Password";
+        SignIn_Pass_TextBox.Click += SignIn_Pass_TextBox_Click;
         // 
         // fileSystemWatcher1
         // 
@@ -82,11 +82,12 @@ partial class SignInScreen : Form
         SignIn_Button.TabIndex = 3;
         SignIn_Button.Text = "Sign In";
         SignIn_Button.UseVisualStyleBackColor = false;
+        SignIn_Button.Click += SignIn_Button_Click;
         // 
         // Ask_SignUp_Label
         // 
         Ask_SignUp_Label.AutoSize = true;
-        Ask_SignUp_Label.Font = new Font("Arial", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+        Ask_SignUp_Label.Font = new Font("Arial", 10.2F);
         Ask_SignUp_Label.Location = new Point(14, 159);
         Ask_SignUp_Label.Name = "Ask_SignUp_Label";
         Ask_SignUp_Label.Size = new Size(180, 19);
@@ -115,9 +116,9 @@ partial class SignInScreen : Form
         Controls.Add(Ask_SignUp_Label);
         Controls.Add(SignIn_Button);
         Controls.Add(SignIn_Email_TextBox);
-        Controls.Add(SigIn_Pass_TextBox);
+        Controls.Add(SignIn_Pass_TextBox);
         Controls.Add(SignIn_Label);
-        Font = new Font("Arial", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+        Font = new Font("Arial", 10.2F);
         FormBorderStyle = FormBorderStyle.None;
         Name = "SignInScreen";
         StartPosition = FormStartPosition.CenterScreen;
@@ -129,7 +130,7 @@ partial class SignInScreen : Form
 
     #endregion
     private Label SignIn_Label;
-    private TextBox SigIn_Pass_TextBox;
+    private TextBox SignIn_Pass_TextBox;
     private FileSystemWatcher fileSystemWatcher1;
     private TextBox SignIn_Email_TextBox;
     private Button SignIn_Button;

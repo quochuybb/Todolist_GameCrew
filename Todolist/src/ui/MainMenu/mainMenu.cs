@@ -16,10 +16,11 @@ namespace Todolist.src.ui.MainMenu
 {
     public partial class mainMenu : Form
     {
-
-        public mainMenu()
+        private TodoService _todoService;
+        public mainMenu(Account account, TodoService todoService)
         {
             InitializeComponent();
+            _todoService = todoService;
 
         }
 
@@ -36,7 +37,7 @@ namespace Todolist.src.ui.MainMenu
         }
         private void Home_Click(object sender, EventArgs e)
         {
-            Home home = new Home();
+            Home home = new Home(_todoService);
             addUserControl(home);
         }
 
