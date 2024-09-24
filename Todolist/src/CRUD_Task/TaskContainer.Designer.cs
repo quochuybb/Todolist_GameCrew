@@ -155,9 +155,13 @@ namespace Todolist.src.CRUD_Task
 
             // add images list
             ImageList images = new ImageList();
-            images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star1.png"));
-            images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star2.png"));
-            images.Images.Add(Image.FromFile("E:\\CodeComplier\\VStudioProjects\\GameCrew_TodoList\\Todolist_GameCrew\\Todolist\\src\\Assests\\star3.png"));
+            // Construct the path for each image
+            string basePath = Application.StartupPath;
+
+            images.Images.Add(Image.FromFile(System.IO.Path.Combine(basePath, "star1.png")));
+            images.Images.Add(Image.FromFile(System.IO.Path.Combine(basePath, "star2.png")));
+            images.Images.Add(Image.FromFile(System.IO.Path.Combine(basePath, "star3.png")));
+
             images.Images.SetKeyName(0, "star1.png");
             images.Images.SetKeyName(1, "star2.png");
             images.Images.SetKeyName(2, "star3.png");
